@@ -1,0 +1,13 @@
+package com.krupesh.springaigpt4;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class SpringAiGpt4ApplicationTests {
+
+    @Test
+    void contextLoads() {
+    }
+
+}
